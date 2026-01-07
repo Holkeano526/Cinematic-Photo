@@ -1,0 +1,7 @@
+{
+  "name": "Cinematic AI Scene Generator",
+  "description": "A high-end image generation tool designed to create dramatic, cinematic scenes based on portrait references. Features direct flash aesthetics, gothic backgrounds, and luxury elements.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
